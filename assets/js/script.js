@@ -1,4 +1,4 @@
-const el_a = document.querySelectorAll('a');
+const el_a = document.querySelectorAll('.button');
 
 el_a.forEach((a)=> {
 
